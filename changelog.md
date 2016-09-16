@@ -3,6 +3,10 @@
 
 ====Change Log====
 
+0.04 (2016-09-16)
+Change
+    - Resolved merge conflicts with changlog.md @zack
+
 0.03 (2016-09-16)
 Added
     - The 'what' field to Welcome.php @zack
