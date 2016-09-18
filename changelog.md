@@ -3,6 +3,10 @@
 
 ====Change Log====
 
+0.05 (2016-09-18)
+    Added
+        - Random quote function to randomly select one quote @neil
+
 0.04 (2016-09-16)
 Change
     - Resolved merge conflicts with changlog.md @zack
